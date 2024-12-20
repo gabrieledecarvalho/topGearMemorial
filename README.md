@@ -25,6 +25,13 @@ Carros, cones, pedras (pode ser modificado o que esses obstáculos serão).
 ### Cronômetro
 Conta o tempo do início da volta até o seu fim. Seja o mais rápido possível.
 
+### Bucket de ideias aleatórias que talvez implemente ou não
+- Tipos de carros diferentes
+- Música
+- Aumentar ou diminuir a velocidade manualmente
+- Aumentar a velocidade na borda da pista
+- Diminuir a velocidade ao sair da pista no limite dela
+  
 ## Referências:
 - https://www.retrogames.cz/play_910-SNES.php
 - https://pt.wikipedia.org/wiki/Top_Gear_(s%C3%A9rie_de_jogos_eletr%C3%B4nicos)
