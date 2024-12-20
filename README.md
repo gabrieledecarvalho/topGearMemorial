@@ -11,13 +11,13 @@ Completar o circuito o mais rápido possível. Pensar em adicionar mais circuito
 
 ### Carro
 O eixo y é fixo, só se movimenta da esquerda para a direita.
-[] Definir o tamanho do carro, linkado com definir o tamanho da faixa.
-[] Definir velocidade do carro, o que na verdade é a velocidade da pista.
+- [] Definir o tamanho do carro, linkado com definir o tamanho da faixa.
+- [] Definir velocidade do carro, o que na verdade é a velocidade da pista.
 
 ### Pista
 Limites à esquerda e à direita, o movimento é de cima para baixo, tem uma largura fixa de 3 faixas (pode ser modificado o número de faixas).
-[] Definir o tamanho da faixa e o tamanho da pista
-[] Definir a velocidade em que a pista se movimenta/velocidade do carro.
+- [] Definir o tamanho da faixa e o tamanho da pista
+- [] Definir a velocidade em que a pista se movimenta/velocidade do carro.
 
 ### Obstáculos
 Carros, cones, pedras (pode ser modificado o que esses obstáculos serão).
